@@ -1,2 +1,2 @@
 # Projects
-Collection of some of my work in various languages.
+Collection of some of my work in sorted by programming languages.
