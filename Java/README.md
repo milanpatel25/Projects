@@ -1,0 +1,1 @@
+Robot-world, collection of algorithms that get a robot to a goal state. Must run in Processing IDE. Press q to quit, space to reset, w for wavefront algorithm, l for line of sight algorithm, b for bug search algorithm. Main lines written by me 160-424, 534-1616.
